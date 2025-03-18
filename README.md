@@ -60,6 +60,7 @@ It includes information about the type of emergency, location (zip, township), t
 ```bash
 git clone https://github.com/AH-ojaghi/911-Calls-Data-Analysis.git
 cd 911-Calls-Data-Analysis
+```
 Install Dependencies
 Make sure you have Python 3.x installed.
 Then install the required libraries:
