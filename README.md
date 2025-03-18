@@ -75,21 +75,21 @@ python src/911calls/911CallsCapstone.py
 ```
 Explore the Visualizations!
 Graphs and charts will be displayed showing insights from the data.
-
+---
 ## ✨ **Features**
 - Clean and well-commented code
 - Exploratory Data Analysis (EDA)
 - Insightful visualizations
 - Time series analysis and heatmaps
-
+---
 ## 📌 **Future Enhancements**
 - Build an interactive dashboard using Plotly Dash or Streamlit
 - Deploy the dashboard as a web app
 - Perform predictive modeling on call volume trends
-
+---
 📜 **License**
 This project is open source and available under the MIT License.
-
+---
 ## ✍️ Author  
 **Amirhossein Ojaghi**  
 🔗 [GitHub](https://github.com/AH-ojaghi/911-Calls-Capstone)
