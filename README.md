@@ -54,21 +54,21 @@ It includes information about the type of emergency, location (zip, township), t
 └── Images/ # (Optional) Folder for output plots/screenshots
 ```
 ---
-# 📝 How to Run This Project
+## 📝 How to Run This Project
 
-## Clone the Repository
+Clone the Repository :
 ```bash
 git clone https://github.com/AH-ojaghi/911-Calls-Data-Analysis.git
 cd 911-Calls-Data-Analysis
 ```
-Install Dependencies
-Make sure you have Python 3.x installed.
+Install Dependencies<br>
+Make sure you have Python 3.x installed.<br>
 Then install the required libraries:
 
 ```bash
 pip install -r requirements.txt
 ```
-Run the Analysis Script
+Run the Analysis Script :
 
 ```bash
 python src/911calls/911CallsCapstone.py
@@ -76,13 +76,13 @@ python src/911calls/911CallsCapstone.py
 Explore the Visualizations!
 Graphs and charts will be displayed showing insights from the data.
 
-✨ **Features**
+## ✨ **Features**
 - Clean and well-commented code
 - Exploratory Data Analysis (EDA)
 - Insightful visualizations
 - Time series analysis and heatmaps
 
-📌 **Future Enhancements**
+## 📌 **Future Enhancements**
 - Build an interactive dashboard using Plotly Dash or Streamlit
 - Deploy the dashboard as a web app
 - Perform predictive modeling on call volume trends
