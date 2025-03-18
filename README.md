@@ -75,6 +75,7 @@ python src/911calls/911CallsCapstone.py
 ```
 Explore the Visualizations!
 Graphs and charts will be displayed showing insights from the data.
+
 ---
 ## ✨ **Features**
 - Clean and well-commented code
@@ -89,7 +90,9 @@ Graphs and charts will be displayed showing insights from the data.
 ---
 📜 **License**
 This project is open source and available under the MIT License.
+
 ---
+
 ## ✍️ Author  
 **Amirhossein Ojaghi**  
 🔗 [GitHub](https://github.com/AH-ojaghi/911-Calls-Capstone)
